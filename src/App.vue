@@ -12,7 +12,7 @@
 
 <template>
   <nav>
-           <ul>
+    <ul>
       <li>
         <RouterLink to="/">Hem</RouterLink>
       </li>
